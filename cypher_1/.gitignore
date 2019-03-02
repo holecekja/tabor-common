@@ -1,0 +1,8 @@
+/.svn
+/.vs/cypher/v14/*.suo
+/Debug
+/Release
+/*.filters
+/*.user
+/lib
+/include/boost
